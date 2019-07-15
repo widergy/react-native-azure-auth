@@ -4,8 +4,8 @@ project.ext {
 
 buildscript {
     repositories {
-        jcenter()
         google()
+        jcenter()
     }
 
     dependencies {
